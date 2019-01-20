@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Khaleb Groce
  */
 
 public class Class1 {
