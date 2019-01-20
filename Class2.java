@@ -11,7 +11,7 @@ public class Class2 {
     private void f2() {
         // v2.0
     }
-    private void f3() {
+    private void {
         // v3.0
     }
 
